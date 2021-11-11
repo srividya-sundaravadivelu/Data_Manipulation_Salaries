@@ -1,0 +1,2 @@
+# Data_Manipulation_Salaries
+SFO Public Department -referred to as SFO has captured all the salary data of its employees from year 2011-2014. Now in 2018 the organization is facing some financial crisis. As a first step HR wants to rationalize employee cost to save payroll budget. You have to do data manipulation and answer the below questions: 1. How much total salary cost has increased from year 2011 to 2014? 2. Who was the top earning employee across all the years?
